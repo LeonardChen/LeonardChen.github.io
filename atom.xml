@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-08-23T15:15:33.000Z</updated>
+  <updated>2016-08-24T09:19:46.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>再谈无人驾驶汽车 - Episode 11</title>
+    <link href="http://yoursite.com/2016/08/24/%E5%86%8D%E8%B0%88%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E6%B1%BD%E8%BD%A6-Episode-11/"/>
+    <id>http://yoursite.com/2016/08/24/再谈无人驾驶汽车-Episode-11/</id>
+    <published>2016-08-24T08:38:37.000Z</published>
+    <updated>2016-08-24T09:19:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<audio src="http://198.199.113.171/podcast/haohaoshuohua/11/e11.mp3" controls="controls"><br>Your browser does not support the audio tag.<br></audio>
+
+<p>英特尔IDF大会上推出Alloy项目——一体化虚拟现实解决方案；由「福特将批量生产全自动驾驶汽车」谈到未来与无人驾驶汽车的生活方式。</p>
+<ul><br><li><a href="https://newsroom.intel.com/chip-shots/intel-unveils-project-alloy/" target="_blank" rel="external">Intel Unveils Project Alloy</a></li><br><li><a href="https://techcrunch.com/2016/05/06/musical-ly-raising-100-million-at-500-million-valuation-for-social-music-videos/" target="_blank" rel="external">自动驾驶汽车的Wikipedia</a>，更多无人驾驶汽车的资料都可以在这里找到</li><br></ul>
+
+<a id="more"></a>
+<p>欣赏：Lemon Tree - Peter, Paul &amp; Mary，收录在组合同名专辑《Peter, Paul and Mary》中。</p>
+<hr>
+<p><a href="http://198.199.113.171/podcast/haohaoshuohua/11/e11.mp3" target="_blank" rel="external">下载MP3</a></p>
+<p><a href="http://198.199.113.171/podcast/haohaoshuohua/feed.xml" target="_blank" rel="external">RSS订阅</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;audio src=&quot;http://198.199.113.171/podcast/haohaoshuohua/11/e11.mp3&quot; controls=&quot;controls&quot;&gt;&lt;br&gt;Your browser does not support the audio tag.&lt;br&gt;&lt;/audio&gt;
+
+&lt;p&gt;英特尔IDF大会上推出Alloy项目——一体化虚拟现实解决方案；由「福特将批量生产全自动驾驶汽车」谈到未来与无人驾驶汽车的生活方式。&lt;/p&gt;
+&lt;ul&gt;&lt;br&gt;&lt;li&gt;&lt;a href=&quot;https://newsroom.intel.com/chip-shots/intel-unveils-project-alloy/&quot;&gt;Intel Unveils Project Alloy&lt;/a&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;a href=&quot;https://techcrunch.com/2016/05/06/musical-ly-raising-100-million-at-500-million-valuation-for-social-music-videos/&quot;&gt;自动驾驶汽车的Wikipedia&lt;/a&gt;，更多无人驾驶汽车的资料都可以在这里找到&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="好好说话" scheme="http://yoursite.com/categories/%E5%A5%BD%E5%A5%BD%E8%AF%B4%E8%AF%9D/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
