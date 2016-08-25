@@ -94,7 +94,7 @@
 <meta property="og:site_name" content="Leonard Chen">
 <meta property="og:description" content="iOS开发课程 Stanford CS193p 的笔记。课程是在iOS 8 的平台教学，我是在iOS 9.3，Swift 2.3，Xcode 7.3上重写。Swift的更新非常快，老版本的Swift中的很多写法在新的2.3中已经不同，在最新的3.0中也不一样。
 关于这个课程的全部项目可以去这个Github页面看到。">
-<meta property="og:updated_time" content="2016-08-25T17:17:59.000Z">
+<meta property="og:updated_time" content="2016-08-25T17:25:50.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Stanford CS193p笔记">
 <meta name="twitter:description" content="iOS开发课程 Stanford CS193p 的笔记。课程是在iOS 8 的平台教学，我是在iOS 9.3，Swift 2.3，Xcode 7.3上重写。Swift的更新非常快，老版本的Swift中的很多写法在新的2.3中已经不同，在最新的3.0中也不一样。
@@ -359,9 +359,7 @@
 <li>Swift 2.3</li>
 <li>iOS 9.3 (真机模拟 iPhone 6)</li>
 </ul>
-<p>##1 Logistics, iOS 8 Overview</p>
-<p>###What’s in iOS</p>
-<ul>
+<h2 id="1-Logistics-iOS-8-Overview"><a href="#1-Logistics-iOS-8-Overview" class="headerlink" title="1 Logistics, iOS 8 Overview"></a>1 Logistics, iOS 8 Overview</h2><h3 id="What’s-in-iOS"><a href="#What’s-in-iOS" class="headerlink" title="What’s in iOS"></a>What’s in iOS</h3><ul>
 <li>Cocoa Touch<ul>
 <li>Multi-Touch, Alerts, Core Motion, Web View, View Hierarchy, Map Kit, Localization, Image Picker, Controls, Camera</li>
 </ul>
@@ -379,8 +377,7 @@
 </ul>
 </li>
 </ul>
-<p>###Platform Components</p>
-<ul>
+<h3 id="Platform-Components"><a href="#Platform-Components" class="headerlink" title="Platform Components"></a>Platform Components</h3><ul>
 <li>Tools<ul>
 <li>Xcode 6 (Latest is 7)</li>
 </ul>
@@ -399,8 +396,7 @@
 </ul>
 </li>
 </ul>
-<p>###Calculator Tutorial</p>
-<ul>
+<h3 id="Calculator-Tutorial"><a href="#Calculator-Tutorial" class="headerlink" title="Calculator Tutorial"></a>Calculator Tutorial</h3><ul>
 <li>Organization Identifier 是身份验证，需要保证独立性</li>
 <li>尽可能把控件放到蓝线上，也就意味着某种对齐</li>
 <li><code>weak</code> 关键字，与 reference counting 相关，具体后面会说</li>
@@ -415,8 +411,7 @@
 <li>在 optional 类型后面加 <code>!</code> 可以强制取出对应的值，但如果值是 <code>nil</code>，就会crash</li>
 <li>所有的变量都必须被初始化</li>
 </ul>
-<p>##2 More Xcode and Swift, MVC</p>
-<ul>
+<h2 id="2-More-Xcode-and-Swift-MVC"><a href="#2-More-Xcode-and-Swift-MVC" class="headerlink" title="2 More Xcode and Swift, MVC"></a>2 More Xcode and Swift, MVC</h2><ul>
 <li>类似<code>UILabel</code> 的控件 outlet 可以直接声明 ! 而不需要像之前所说的那样所有变量都必须被初始化，因为作为控件变量称为 implicit unwrap，是 storyboard 另外的机制</li>
 <li>右键点击一个控件会显示当前和该控件绑定的事件，可以在这里操作进行绑定和解绑定</li>
 <li>新建数组 <code>var operandStack = Array&lt;Double&gt;()</code>，可以被 infer(推断) 的类型最好不要写明类型</li>
@@ -424,8 +419,7 @@
 <li>command + / 可以快速注释</li>
 <li>利用 Swift 本身的特性可以写出非常精简的代码，比如函数尾闭包写法，用$0,$1…表示函数的参数</li>
 </ul>
-<p>##3 Applying MVC</p>
-<ul>
+<h2 id="3-Applying-MVC"><a href="#3-Applying-MVC" class="headerlink" title="3 Applying MVC"></a>3 Applying MVC</h2><ul>
 <li>新建一个 class：File -&gt; New -&gt; File -&gt; Swift File</li>
 <li>虽然没有要求类名和文件名一致，但是最好还是一样，这样比较符合惯例</li>
 <li>理论上来说不应该在一个 Model 类中 import UIKit</li>
@@ -677,7 +671,7 @@
               
             
             
-              <p class="post-toc-empty">此文章未包含目录</p>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#1-Logistics-iOS-8-Overview"><span class="nav-number">1.</span> <span class="nav-text">1 Logistics, iOS 8 Overview</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#What’s-in-iOS"><span class="nav-number">1.1.</span> <span class="nav-text">What’s in iOS</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Platform-Components"><span class="nav-number">1.2.</span> <span class="nav-text">Platform Components</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Calculator-Tutorial"><span class="nav-number">1.3.</span> <span class="nav-text">Calculator Tutorial</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-More-Xcode-and-Swift-MVC"><span class="nav-number">2.</span> <span class="nav-text">2 More Xcode and Swift, MVC</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3-Applying-MVC"><span class="nav-number">3.</span> <span class="nav-text">3 Applying MVC</span></a></li></ol></div>
             
           </div>
         </section>
