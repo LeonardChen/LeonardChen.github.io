@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-10-09T08:24:24.000Z</updated>
+  <updated>2016-11-26T11:27:00.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,67 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Apple Watch Series 2 使用体验 - Episode 16</title>
+    <link href="http://yoursite.com/2016/11/26/Apple-Watch-Series-2-%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C-Episode-16/"/>
+    <id>http://yoursite.com/2016/11/26/Apple-Watch-Series-2-使用体验-Episode-16/</id>
+    <published>2016-11-26T11:22:00.000Z</published>
+    <updated>2016-11-26T11:27:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<audio src="http://198.199.113.171/podcast/haohaoshuohua/16/e16.mp3" controls="controls"><br>Your browser does not support the audio tag.<br></audio>
+
+<p>好久不见，各位还记得这个节目吗？结束了在全国各地的奔波，还有短暂的休假，现在又回来继续周更《好好说话》。前段时间经常性在一些从未去过的城市开各种会议，参加各种论坛，所以频繁地在使用地图导航和Apple Watch，进而对Apple Watch有了更深的体会，这一期就来聊一下使用Apple Watch的体验感受。</p>
+<p>好好说话Live 是一个通过视频直播方式呈现的播客，不定期直播，直播地址：<a href="http://www.panda.tv/553739" target="_blank" rel="external">http://www.panda.tv/553739</a></p>
+<p><a href="http://lingxiao.name/2016/10/02/%E5%85%B3%E4%BA%8E%E3%80%8C%E6%B3%9B%E7%94%A8%E5%9E%8B%E6%92%AD%E5%AE%A2%E5%AE%A2%E6%88%B7%E7%AB%AF%E3%80%8D/" target="_blank" rel="external">关于「泛用型播客客户端」</a></p>
+<a id="more"></a> 
+<p></p><p>节目中您会听到:</p><p></p>
+<ul><br>            <li>Apple Watch Series 2 的总体感受</li><br>            <li>Apple Watch 的消息推送问题</li><br>            <li>强大的运动功能</li><br>            <li>各种问题交织的地图</li><br>            <li>Siri</li><br>            <li>音乐和播客</li><br>            <li>第三方应用</li><br>            <li>电量使用</li><br>            <li>新增的呼吸App</li><br>            <li>Apple Watch 乐趣所在</li><br>            </ul>
+
+<p>欣赏：I Bet My Life - Imagine Dragons</p>
+<p>如果你喜欢这期节目，并愿意帮助我们把节目做得更好，我们鼓励您支付我们小费，您可以点击「赏」按钮，并通过支付宝扫描二维码支付小费，金额随意，6的正整数倍最佳。</p>
+<hr>
+<p><a href="https://geo.itunes.apple.com/cn/podcast/hao-hao-shuo-hua/id1107253217?mt=2" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/zh-chs/badge_itunes-lrg.svg) no-repeat;width:165px;height:40px;" target="_blank" rel="external"></a></p>
+<p><a href="http://198.199.113.171/podcast/haohaoshuohua/16/e16.mp3" target="_blank" rel="external">下载MP3</a></p>
+<p><a href="http://198.199.113.171/podcast/haohaoshuohua/feed.xml" target="_blank" rel="external">RSS订阅</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;audio src=&quot;http://198.199.113.171/podcast/haohaoshuohua/16/e16.mp3&quot; controls=&quot;controls&quot;&gt;&lt;br&gt;Your browser does not support the audio tag.&lt;br&gt;&lt;/audio&gt;
+
+&lt;p&gt;好久不见，各位还记得这个节目吗？结束了在全国各地的奔波，还有短暂的休假，现在又回来继续周更《好好说话》。前段时间经常性在一些从未去过的城市开各种会议，参加各种论坛，所以频繁地在使用地图导航和Apple Watch，进而对Apple Watch有了更深的体会，这一期就来聊一下使用Apple Watch的体验感受。&lt;/p&gt;
+&lt;p&gt;好好说话Live 是一个通过视频直播方式呈现的播客，不定期直播，直播地址：&lt;a href=&quot;http://www.panda.tv/553739&quot;&gt;http://www.panda.tv/553739&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://lingxiao.name/2016/10/02/%E5%85%B3%E4%BA%8E%E3%80%8C%E6%B3%9B%E7%94%A8%E5%9E%8B%E6%92%AD%E5%AE%A2%E5%AE%A2%E6%88%B7%E7%AB%AF%E3%80%8D/&quot;&gt;关于「泛用型播客客户端」&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="好好说话" scheme="http://yoursite.com/categories/%E5%A5%BD%E5%A5%BD%E8%AF%B4%E8%AF%9D/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>解决 Mac OS 下无法打开 x-Force 系列注册机的问题</title>
+    <link href="http://yoursite.com/2016/10/27/%E8%A7%A3%E5%86%B3-Mac-OS-%E4%B8%8B%E6%97%A0%E6%B3%95%E6%89%93%E5%BC%80-x-Force-%E7%B3%BB%E5%88%97%E6%B3%A8%E5%86%8C%E6%9C%BA%E7%9A%84%E9%97%AE%E9%A2%98/"/>
+    <id>http://yoursite.com/2016/10/27/解决-Mac-OS-下无法打开-x-Force-系列注册机的问题/</id>
+    <published>2016-10-27T14:01:13.000Z</published>
+    <updated>2016-10-27T14:22:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>经对注册机二进制文件的分析，得出的结论是，无法运行的注册机经过了UPX的压缩，而这个压缩和Yosemite不兼容。<br>解决的思路很简单，只需要使用upx对注册机解压缩即可。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;经对注册机二进制文件的分析，得出的结论是，无法运行的注册机经过了UPX的压缩，而这个压缩和Yosemite不兼容。&lt;br&gt;解决的思路很简单，只需要使用upx对注册机解压缩即可。&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="技术" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>音乐人系列: Sia - Episode 15</title>
@@ -687,41 +748,6 @@
       &lt;audio src=&quot;http://198.199.113.171/podcast/haohaoshuohua/10/e10.mp3&quot; controls=&quot;controls&quot;&gt;&lt;br&gt;Your browser does not support the audio tag.&lt;br&gt;&lt;/audio&gt;
 
 &lt;p&gt;中国创业公司Musical.ly（妈妈咪呀）海外市场的成功，Google开发新系统Fuchsia，Firefox扩展程序「No More 404s」，苹果第三季度财报和苹果的一些事情。&lt;br&gt;
-    
-    </summary>
-    
-      <category term="好好说话" scheme="http://yoursite.com/categories/%E5%A5%BD%E5%A5%BD%E8%AF%B4%E8%AF%9D/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>再谈无人驾驶汽车 - Episode 11</title>
-    <link href="http://yoursite.com/2016/08/24/%E5%86%8D%E8%B0%88%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E6%B1%BD%E8%BD%A6-Episode-11/"/>
-    <id>http://yoursite.com/2016/08/24/再谈无人驾驶汽车-Episode-11/</id>
-    <published>2016-08-24T08:38:37.000Z</published>
-    <updated>2016-09-07T12:59:02.000Z</updated>
-    
-    <content type="html"><![CDATA[<audio src="http://198.199.113.171/podcast/haohaoshuohua/11/e11.mp3" controls="controls"><br>Your browser does not support the audio tag.<br></audio>
-
-<p>英特尔IDF大会上推出Alloy项目——一体化虚拟现实解决方案；由「福特将批量生产全自动驾驶汽车」谈到未来与无人驾驶汽车的生活方式。</p>
-<ul><br><li><a href="https://newsroom.intel.com/chip-shots/intel-unveils-project-alloy/" target="_blank" rel="external">Intel Unveils Project Alloy</a></li><br><li><a href="https://techcrunch.com/2016/05/06/musical-ly-raising-100-million-at-500-million-valuation-for-social-music-videos/" target="_blank" rel="external">自动驾驶汽车的Wikipedia</a>，更多无人驾驶汽车的资料都可以在这里找到</li><br></ul>
-
-<a id="more"></a>
-<p>欣赏：Lemon Tree - Peter, Paul &amp; Mary，收录在组合同名专辑《Peter, Paul and Mary》中。</p>
-<p>如果你喜欢这期节目，并愿意帮助我们把节目做得更好，我们鼓励您支付我们小费，您可以点击「赏」按钮，并通过支付宝扫描二维码支付小费，金额随意，6的正整数倍最佳。</p>
-<hr>
-<p><a href="https://geo.itunes.apple.com/cn/podcast/hao-hao-shuo-hua/id1107253217?mt=2" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/zh-chs/badge_itunes-lrg.svg) no-repeat;width:165px;height:40px;" target="_blank" rel="external"></a></p>
-<p><a href="http://198.199.113.171/podcast/haohaoshuohua/11/e11.mp3" target="_blank" rel="external">下载MP3</a></p>
-<p><a href="http://198.199.113.171/podcast/haohaoshuohua/feed.xml" target="_blank" rel="external">RSS订阅</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;audio src=&quot;http://198.199.113.171/podcast/haohaoshuohua/11/e11.mp3&quot; controls=&quot;controls&quot;&gt;&lt;br&gt;Your browser does not support the audio tag.&lt;br&gt;&lt;/audio&gt;
-
-&lt;p&gt;英特尔IDF大会上推出Alloy项目——一体化虚拟现实解决方案；由「福特将批量生产全自动驾驶汽车」谈到未来与无人驾驶汽车的生活方式。&lt;/p&gt;
-&lt;ul&gt;&lt;br&gt;&lt;li&gt;&lt;a href=&quot;https://newsroom.intel.com/chip-shots/intel-unveils-project-alloy/&quot;&gt;Intel Unveils Project Alloy&lt;/a&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;a href=&quot;https://techcrunch.com/2016/05/06/musical-ly-raising-100-million-at-500-million-valuation-for-social-music-videos/&quot;&gt;自动驾驶汽车的Wikipedia&lt;/a&gt;，更多无人驾驶汽车的资料都可以在这里找到&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;
     
     </summary>
     
